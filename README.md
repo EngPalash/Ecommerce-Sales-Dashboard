@@ -22,7 +22,7 @@ Technologies Used
 Getting Started
 Follow the steps below to explore and customize the dashboard:
 - Clone or Download Repository
-Download this repository to access the Power BI files and datasets.git clone https://github.com/your-username/ecommerce-sales-dashboard.git
+Download this repository to access the Power BI files and datasets.
 
 - Open Power BI File
 Use Microsoft Power BI Desktop to open the .pbix file in the repository.
